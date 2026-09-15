@@ -1,0 +1,5 @@
+[functions.fetch-quotes]
+verify_jwt = false
+
+[functions.quote-voice]
+verify_jwt = false
